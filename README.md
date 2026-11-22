@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f12,100:2b2b33&height=200&section=header&text=Hello&fontColor=ffffff&fontSize=64&fontAlignY=40&animation=twinkling" width="100%" />
+<img src="./header.svg" alt="Hello" width="100%" />
+
+<img src="./phikec_chell.png" alt="phikec" width="170" />
 
 </div>
 
